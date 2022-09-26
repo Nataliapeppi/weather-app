@@ -21,6 +21,14 @@ h3 {
   background: #71c9ce;
   color: white;
 }
+a:link {
+  color: #212529;
+  font-size: 12px;
+  text-decoration: none;
+}
+p {
+  font-size: 12px;
+}
 #celsius-link {
   text-decoration: none;
   color: #212529;
