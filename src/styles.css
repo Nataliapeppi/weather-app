@@ -1,1 +1,44 @@
+body {
+  background: #e3fdfd;
+  font-family: "Space Mono", monospace;
+}
 
+h1 {
+  font-size: 25px;
+  margin: 99px 30px 2px 20px;
+}
+h2 {
+  font-size: 16px;
+  margin: -80px 800px 100px 320px;
+}
+h3 {
+  font-size: 16px;
+  margin: 0 32px 20px 20px;
+}
+#search-format {
+  display: block;
+  width: 85%;
+  background: #71c9ce;
+  color: white;
+}
+#celsius-link {
+  text-decoration: none;
+  color: #212529;
+}
+#fahrenheit-link {
+  text-decoration: none;
+  color: #212529;
+}
+.container {
+  border: 1px solid;
+  border-color: #71c9ce;
+  border-radius: 10px;
+  max-width: 550px;
+  padding: 20px 20px 60px 20px;
+  margin-top: 30px;
+}
+.col {
+  font-size: 10px;
+  border-style: groove;
+  border-color: #a6e3e9;
+}
